@@ -7,11 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-05-29 22:42:42 +0000",
       "minecraft:birch_forest": "2025-05-29 02:39:15 +0000",
       "minecraft:dark_forest": "2025-05-29 02:43:15 +0000",
       "minecraft:river": "2025-05-29 02:36:47 +0000",
       "minecraft:forest": "2025-05-29 02:30:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-29 02:43:28 +0000",
+      "minecraft:flower_forest": "2025-05-29 22:41:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-29 02:38:43 +0000",
       "minecraft:plains": "2025-05-29 22:31:21 +0000"
     },
@@ -682,6 +684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-29 22:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-29 22:27:23 +0000"
@@ -736,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-29 22:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-29 22:27:23 +0000"
@@ -751,6 +765,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-29 22:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-29 22:43:48 +0000"
     },
     "done": true
   },
@@ -781,6 +801,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-05-29 22:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-29 22:39:58 +0000"
     },
     "done": true
   },
