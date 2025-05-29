@@ -12,7 +12,8 @@
       "minecraft:river": "2025-05-29 02:36:47 +0000",
       "minecraft:forest": "2025-05-29 02:30:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-29 02:43:28 +0000",
-      "minecraft:old_growth_birch_forest": "2025-05-29 02:38:43 +0000"
+      "minecraft:old_growth_birch_forest": "2025-05-29 02:38:43 +0000",
+      "minecraft:plains": "2025-05-29 22:31:21 +0000"
     },
     "done": false
   },
@@ -750,6 +751,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-29 22:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-29 22:30:16 +0000"
     },
     "done": true
   },
