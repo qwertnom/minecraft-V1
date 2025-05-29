@@ -1,62 +1,38 @@
-[02:03:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:03:56] [ServerMain/INFO]: Loaded 7 recipes
-[02:03:57] [ServerMain/INFO]: Loaded 1271 advancements
-[02:03:58] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:03:58] [Server thread/INFO]: Loading properties
-[02:03:58] [Server thread/INFO]: Default game type: SURVIVAL
-[02:03:58] [Server thread/INFO]: Generating keypair
-[02:03:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:03:58] [Server thread/INFO]: Using epoll channel type
-[02:03:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:03:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:03:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:03:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:03:59] [Server thread/INFO]: Preparing level "world"
-[02:04:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:04:23] [Server thread/INFO]: Time elapsed: 14992 ms
-[02:04:23] [Server thread/INFO]: Done (23.997s)! For help, type "help"
-[02:05:14] [Server thread/INFO]: bitchass[/127.176.192.22:56137] logged in with entity id 212 at (48.81929253856628, 65.0, 69.69000216706291)
-[02:05:14] [Server thread/INFO]: bitchass joined the game
-[02:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
-[02:05:24] [Server thread/INFO]: Bremur[/127.217.246.236:52659] logged in with entity id 284 at (43.30000001192093, 68.92159999847412, 156.69999998807907)
-[02:05:24] [Server thread/INFO]: Bremur joined the game
-[02:06:02] [Server thread/INFO]: Bremur lost connection: Disconnected
-[02:06:02] [Server thread/INFO]: Bremur left the game
-[02:07:01] [Server thread/INFO]: Bremur[/127.217.246.236:60929] logged in with entity id 570 at (72.9158126167544, 28.0, 173.56013804715656)
-[02:07:01] [Server thread/INFO]: Bremur joined the game
-[02:09:13] [Server thread/INFO]: [Not Secure] <Bremur> me escuchas?
-[02:09:18] [Server thread/INFO]: [Not Secure] <bitchass> nop
-[02:09:26] [Server thread/INFO]: [Not Secure] <bitchass> solo escucho los gritos de fondo
-[02:20:11] [Server thread/INFO]: bitchass has made the advancement [Sweet Dreams]
-[02:20:47] [Server thread/INFO]: Bremur lost connection: Timed out
-[02:20:47] [Server thread/INFO]: Bremur left the game
-[02:20:48] [Server thread/WARN]: handleDisconnection() called twice
+[21:38:17] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:38:20] [ServerMain/INFO]: Loaded 7 recipes
+[21:38:20] [ServerMain/INFO]: Loaded 1271 advancements
+[21:38:21] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:38:21] [Server thread/INFO]: Loading properties
+[21:38:21] [Server thread/INFO]: Default game type: SURVIVAL
+[21:38:21] [Server thread/INFO]: Generating keypair
+[21:38:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:38:21] [Server thread/INFO]: Using epoll channel type
+[21:38:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:38:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:38:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:38:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:38:21] [Server thread/INFO]: Preparing level "world"
+[21:38:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:37] [Server thread/INFO]: Time elapsed: 9782 ms
+[21:38:37] [Server thread/INFO]: Done (15.376s)! For help, type "help"
+[21:42:58] [Server thread/INFO]: Bremur[/127.217.246.236:37795] logged in with entity id 159 at (136.48479051234284, 16.0, 159.69999998807907)
+[21:42:58] [Server thread/INFO]: Bremur joined the game
